@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jadinhowell15-cloud/osTicket-Prerequisites-and-Installation/tree/main)
-
+  - [osTicket: Prerequisites and Installation](https://github.com/jadinhowell15-cloud/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/jadinhowell15-cloud/osTicket-Post-Installation-Configuration)
 
 <h2> :page_facing_up: Certifications </h2>
 

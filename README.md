@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/jadinhowell15-cloud/osTicket-Prerequisites-and-Installation/tree/main)
 
 
 <h2> :page_facing_up: Certifications </h2>

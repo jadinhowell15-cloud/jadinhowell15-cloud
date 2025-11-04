@@ -5,6 +5,11 @@
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/jadinhowell15-cloud/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/jadinhowell15-cloud/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jadinhowell15-cloud/osTicket-Ticket-Lifecycle-Examples)
+
+- <b> Microsoft Azure </b>
+  - [Setting Up Active Directory using Azure VMs](https://github.com/jadinhowell15-cloud/osTicket-Prerequisites-and-Installation)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/jadinhowell15-cloud/osTicket-Post-Installation-Configuration)
 
 <h2> :page_facing_up: Certifications </h2>
 

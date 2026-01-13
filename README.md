@@ -11,6 +11,9 @@
   - [Setting Up Active Directory using Azure VMs](https://github.com/jadinhowell15-cloud/Setting-Up-Active-Directory-using-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/jadinhowell15-cloud/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols-with-Wireshark)
 
+- <b> Password Reset </b>
+ - [Active Directory Password Reset](https://github.com/jadinhowell15-cloud/active-directory-password-reset-lab)
+
 <h2> :page_facing_up: Certifications </h2>
 
 
